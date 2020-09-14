@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**prasanthchaduvula/prasanthchaduvula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###   
+Hi, I'm Prasanth Chaduvula— Software Engineer |  1x founder | Traveler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always writing and documenting what I learn at  [chaduvulaprasanth](https://chaduvulaprasanth.netlify.app/)  (or  [in twitter ](https://twitter.com/iamchaduvula)  for short).
+
+### [](https://github.com/prasanthchaduvula#skills)My Skills
+
+-  **HTML**
+-  **CSS**
+- **Javascript**
+- **NodeJs**
+- **MongoDB**
+- **React**
+-   **Redux**
+- **Ruby**
+- **Rails**
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=prasanthchaduvula&&show_icons=true&title_color=#16202C&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
